@@ -1,0 +1,3 @@
+[submodule "idx-data-csv"]
+	path = idx-data-csv
+	url = https://github.com/idx-repo/idx-data-csv.git
