@@ -1,3 +1,4 @@
 [submodule "idx-data"]
 	path = idx-data
 	url = https://github.com/idx-repo/idx-data.git
+	branch = idx
